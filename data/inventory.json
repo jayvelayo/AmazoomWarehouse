@@ -1,0 +1,212 @@
+﻿[
+    {
+        "item_name_regex": "Hairdryer",
+	"item_ID": 1001,
+        "item_quantity": 11,
+	"item_weight": 10,
+	"item_price": 20
+    },
+    {
+        "item_name_regex": "Basketball",
+	"item_ID": 1002,
+        "item_quantity": 10,
+	"item_weight": 5,
+	"item_price": 1	
+    },
+    {
+        "item_name_regex": "Sunscreen",
+	"item_ID": 1003,
+        "item_quantity": 8,
+	"item_weight": 3,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Laptop",
+	"item_ID": 1004,
+        "item_quantity": 13,
+	"item_weight": 50,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Dog Stuffed Animal",
+	"item_ID": 1005,
+        "item_quantity": 15,
+	"item_weight": 6,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Lego",
+	"item_ID": 1006,
+        "item_quantity": 10,
+	"item_weight": 10,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Nintendo Switch",
+	"item_ID": 1007,
+        "item_quantity": 10,
+	"item_weight": 10,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Umbrella",
+	"item_ID": 1008,
+        "item_quantity": 50,
+	"item_weight": 15,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Socks",
+	"item_ID": 1009,
+        "item_quantity": 20,
+	"item_weight": 2,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Hat",
+	"item_ID": 1010,
+        "item_quantity": 18,
+	"item_weight": 5,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Tennis Racquet",
+	"item_ID": 1011,
+        "item_quantity": 8,
+	"item_weight": 20,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Cat Stuffed Animal",
+	"item_ID": 1012,
+        "item_quantity": 10,
+	"item_weight": 6,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Xbox",
+	"item_ID": 1013,
+        "item_quantity": 20,
+	"item_weight": 20,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Sweater",
+	"item_ID": 1014,
+        "item_quantity": 50,
+	"item_weight": 5,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "USB",
+	"item_ID": 1015,
+        "item_quantity": 9,
+	"item_weight": 1,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Book",
+	"item_ID": 1016,
+        "item_quantity": 13,
+	"item_weight": 8,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Lamp",
+	"item_ID": 1017,
+        "item_quantity": 11,
+	"item_weight": 15,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Baseball Glove",
+	"item_ID": 1018,
+        "item_quantity": 12,
+	"item_weight": 9,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Drone",
+	"item_ID": 1019,
+        "item_quantity": 10,
+	"item_weight": 10,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Alarm Clock",
+	"item_ID": 1020,
+        "item_quantity": 14,
+	"item_weight": 4,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Pillow",
+	"item_ID": 1021,
+        "item_quantity": 18,
+	"item_weight": 1,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Instant Coffee",
+	"item_ID": 1022,
+        "item_quantity": 20,
+	"item_weight": 5,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Pencil",
+	"item_ID": 1023,
+        "item_quantity": 100,
+	"item_weight": 1,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Lined Paper",
+	"item_ID": 1024,
+        "item_quantity": 50,
+	"item_weight": 2,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Camera",
+	"item_ID": 1025,
+        "item_quantity": 25,
+	"item_weight": 15,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Keyboard",
+	"item_ID": 1026,
+        "item_quantity": 7,
+	"item_weight": 10,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Mouse",
+	"item_ID": 1027,
+        "item_quantity": 9,
+	"item_weight": 7,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Tissues",
+	"item_ID": 1028,
+        "item_quantity": 10,
+	"item_weight": 1,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Lightbulb",
+	"item_ID": 1029,
+        "item_quantity": 15,
+	"item_weight": 3,
+	"item_price": 1
+    },
+    {
+        "item_name_regex": "Playdoh",
+	"item_ID": 1030,
+        "item_quantity": 8,
+	"item_weight": 6,
+	"item_price": 1
+    }
+]
